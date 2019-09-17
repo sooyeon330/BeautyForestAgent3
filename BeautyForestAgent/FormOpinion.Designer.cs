@@ -110,7 +110,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "FormOpinion";
-            this.Text = "3616채수연";
+            this.Text = "formOpinion";
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
             this.tlsMenu.ResumeLayout(false);

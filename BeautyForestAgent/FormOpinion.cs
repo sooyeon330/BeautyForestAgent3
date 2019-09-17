@@ -15,5 +15,10 @@ namespace BeautyForestAgent
         {
             InitializeComponent();
         }
+
+        private void ToolStripStatusLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

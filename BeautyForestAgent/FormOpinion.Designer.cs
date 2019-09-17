@@ -87,6 +87,7 @@
             this.tbsFont.Name = "tbsFont";
             this.tbsFont.Size = new System.Drawing.Size(23, 22);
             this.tbsFont.Text = "toolStripButton1";
+            this.tbsFont.Click += new System.EventHandler(this.TbsFont_Click);
             // 
             // tbsColor
             // 
@@ -96,6 +97,7 @@
             this.tbsColor.Name = "tbsColor";
             this.tbsColor.Size = new System.Drawing.Size(23, 22);
             this.tbsColor.Text = "toolStripButton1";
+            this.tbsColor.Click += new System.EventHandler(this.TbsColor_Click);
             // 
             // FormOpinion
             // 
